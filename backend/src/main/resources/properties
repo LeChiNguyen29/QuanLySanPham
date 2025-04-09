@@ -1,0 +1,4 @@
+; category.name.not-blank=Tên danh mục không được để trống.
+; category.name.size=Tên danh mục có tối đa 100 ký tự.
+; category.categoryCode.not-blank=Mã danh mục không được để trống.
+; category.categoryCode.size=Mã danh mục có tối đa 50 ký tự.
